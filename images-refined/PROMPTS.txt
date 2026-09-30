@@ -1,0 +1,126 @@
+LEVEL — утончённая серия, 38 значков
+
+Общий промпт (референс — утверждённые фишки):
+
+Create ONE refined luxury poker achievement icon matching the attached APPROVED POKER CHIPS reference precisely in material language, fine detail, restraint and lighting, but depict the subject specified below. Second reference is supporting style inspiration only.
+At least 90-95% of visible object surface is deep black glossy enamel and black PVD metal. Only 5-10% gold: hairline muted champagne-gold edges, sparse microscopic embedded golden flecks, and one or two extremely delicate curved gold wire arcs lightly surrounding the object. Fine detail comes from tiny black stippled metal texture, microengraving and restrained gold dust, NOT bulky decoration. Broad clean glossy black surfaces alternate with one or two finely textured black inset areas. Strong, clearly recognizable silhouette.
+NO thick gold rims or bands, NO golden sidewalls, NO large solid-gold surfaces, NO gold beads, pearls or rivets, NO baroque scrollwork, NO added crowns, wreaths or shields unless requested in the subject. No marble, onyx, stone, veins or stone texture.
+Where a numeral is specified, display ONLY that exact numeral as elegant slender champagne-gold inlay flush with a predominantly black surface, clearly readable but not oversized. Do not use thick raised gold numerals. If no numeral is specified, use no text or numerals. Keep requested icon parts and counts accurate.
+Photorealistic meticulous high-end 3D macro product render; soft upper-left key light, controlled glossy reflections and faint warm rim light. All details sharp. Same slightly elevated three-quarter camera as approved chips. One unified centered composition, full object visible with generous safe margins, about 78% of square canvas. True transparent RGBA PNG background, square 1254x1254. No ground, scenery, background, bokeh, checkerboard, captions or watermark.
+Subject: [subject]
+
+1. Первый стол
+Subject: a single spade symbol (♠) as a thick 3D object
+
+2. 5 турниров
+Subject: a small stack of poker chips, number "5" inlaid in gold on the top chip
+
+3. 10 турниров
+Subject: a stack of poker chips, number "10" inlaid in gold on the top chip
+
+4. 25 турниров
+Subject: a taller stack of poker chips, number "25" inlaid in gold on the top chip
+
+5. 50 турниров
+Subject: two stacks of poker chips, number "50" inlaid in gold on the front chip
+
+6. 100 турниров
+Subject: a big pile of poker chips, number "100" inlaid in gold on the front chip
+
+7. 3 турнира подряд
+Subject: a flame, number "3" inlaid in gold in the center of the flame
+
+8. 7 турниров подряд
+Subject: a bigger, taller flame, number "7" inlaid in gold in the center
+
+9. Ветеран
+Subject: a laurel wreath with a small star at the top
+
+10. Первая победа
+Subject: a royal crown
+
+11. 3 победы
+Subject: a trophy cup, number "3" inlaid in gold on the cup
+
+12. 5 побед
+Subject: a trophy cup, number "5" inlaid in gold on the cup
+
+13. 10 побед
+Subject: a large ornate trophy cup, number "10" inlaid in gold on the cup
+
+14. Чемпион сезона
+Subject: a large trophy cup with a small crown on top
+
+15. Чистая победа
+Subject: a shield with a check mark embossed on it
+
+16. В тройке
+Subject: a three-step winners podium (1st in the middle, tallest)
+
+17. 5 призовых мест
+Subject: a winners podium, number "5" inlaid in gold on the top step
+
+18. 10 призовых мест
+Subject: a winners podium, number "10" inlaid in gold on the top step
+
+19. Крепкий середняк
+Subject: a bold arrow pointing up and to the right
+
+20. Призёр сезона
+Subject: a medal on a short ribbon
+
+21. Финалист
+Subject: a flag on a short pole, waving
+
+22. Первый нокаут
+Subject: a target with a dart hitting the bullseye
+
+23. 25 нокаутов
+Subject: a target, number "25" inlaid in gold on the rim
+
+24. 100 нокаутов
+Subject: a target, number "100" inlaid in gold on the rim
+
+25. 5 нокаутов за турнир
+Subject: a lightning bolt, number "5" inlaid in gold on it
+
+26. 10 нокаутов за турнир
+Subject: a lightning bolt, number "10" inlaid in gold on it
+
+27. 15 нокаутов за турнир
+Subject: a double lightning bolt, number "15" inlaid in gold on it
+
+28. Гроза сезона
+Subject: a storm cloud with a lightning bolt coming out of it
+
+29. Первый конверт
+Subject: a sealed envelope with a wax seal
+
+30. 5 конвертов
+Subject: a small fan of envelopes, number "5" inlaid in gold on the front one
+
+31. Привёл друга
+Subject: two hands in a handshake
+
+32. 3 приглашённых
+Subject: a handshake, number "3" inlaid in gold below it on a small plate
+
+33. 10 приглашённых
+Subject: a handshake, number "10" inlaid in gold below it on a small plate
+
+34. Звезда сезона
+Subject: a large five-pointed star
+
+35. 25 подписчиков
+Subject: two person busts side by side, number "25" inlaid in gold on a small plate in front
+
+36. 50 подписчиков
+Subject: three person busts side by side, number "50" inlaid in gold on a small plate in front
+
+37. Ранний рейс
+Subject: a paper airplane flying up
+
+38. Не сдаюсь
+Subject: a poker chip with two circular arrows around it (re-entry symbol)
+
+Значок 2.png — утверждённый образец, сохранён без изменений.
